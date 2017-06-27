@@ -1,0 +1,2 @@
+Start developing a feature
+Fix something from the previous commit
