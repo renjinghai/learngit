@@ -1,2 +1,4 @@
 Start developing a feature
 Fix something from the previous commit
+coding1
+coding2
