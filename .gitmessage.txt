@@ -1,0 +1,2 @@
+[SIM ID] messages
+cr cr_url
